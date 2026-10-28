@@ -9,3 +9,7 @@ export interface UserDataProps {
     users: User[];
 }
 
+export interface UserType{
+    name: string,
+    age: number,
+}
